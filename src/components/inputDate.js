@@ -29,12 +29,12 @@ class InputDate extends Component {
         return (
             <div>
                 <Row>
-                    <Col xs={2} md={2} lg={2}>
+                    <Col xs={1} md={2} lg={2}>
                     </Col>
                     <Col xs={1} md={1} lg={1}>
                         <SvgIcon />
                     </Col>
-                    <Col xs={5} md={5} lg={5}>
+                    <Col xs={9} md={5} lg={5}>
                         <DatePicker 
                             hintText="Clicca per selezionare una data" 
                             formatDate={this.formatDate} 
@@ -43,7 +43,7 @@ class InputDate extends Component {
                             maxDate={new Date("04/30/2018")}
                         />
                     </Col>
-                    <Col xs={3} md={3} lg={3}>
+                    <Col xs={1} md={3} lg={3}>
                     </Col>
                 </Row>
 
