@@ -6,10 +6,8 @@ class CardWithAvatar extends Component {
 
     render() {
         const style={
-            "whiteSpace": "nowrap",
             "overflow": "hidden",
             "textOverflow": "ellipsis",
-            "width": "60%"
         }
         
         return (
