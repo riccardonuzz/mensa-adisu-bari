@@ -1,5 +1,7 @@
 # mensa-adisu-bari
 
+Demo: riccardonuzz.github.io/mensa-adisu-bari/
+
 Tecnologie utilizzate:
 - React
 - React router
