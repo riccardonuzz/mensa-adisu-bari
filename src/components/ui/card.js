@@ -2,11 +2,16 @@ import React, { Component } from 'react';
 import {Card, CardActions, CardHeader, CardMedia, CardTitle, CardText} from 'material-ui/Card';
 import FlatButton from 'material-ui/FlatButton';
 
-//import Pranzo from './assets/pranzo.png';
-
 class CardWithAvatar extends Component {
 
     render() {
+        const style={
+            "whiteSpace": "nowrap",
+            "overflow": "hidden",
+            "textOverflow": "ellipsis",
+            "width": "60%"
+        }
+        
         return (
             <Card>
                 <CardMedia
@@ -14,7 +19,7 @@ class CardWithAvatar extends Component {
                 >
                 <img src={this.props.immagine} />
                 </CardMedia>
-                <CardTitle title={this.props.titolo} />
+                <CardTitle style={style} title={this.props.titolo} />
             </Card>
         );
     }
