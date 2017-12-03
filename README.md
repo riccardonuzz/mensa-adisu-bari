@@ -1,6 +1,6 @@
 # mensa-adisu-bari
 
-Demo: riccardonuzz.github.io/mensa-adisu-bari/
+Demo: http://riccardonuzz.github.io/mensa-adisu-bari/
 
 Tecnologie utilizzate:
 - React
