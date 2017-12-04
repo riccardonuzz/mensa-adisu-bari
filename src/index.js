@@ -11,6 +11,7 @@ import reducers from './reducers';
 import Home from './components/home';
 import Dishes from './components/dishes';
 import Plate from './components/plate';
+import Info from './components/info';
 
 const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
 
@@ -20,6 +21,7 @@ ReactDOM.render(
       <BrowserRouter>
         <div>
           <Switch>
+            <Route path="/info" component={Info}/>
             <Route path="/dishes/:data/:id/:type" component={Plate}/>
             <Route path="/dishes/:data/:id" component={Dishes}/>
             <Route path="/dishes" component={Home}/>

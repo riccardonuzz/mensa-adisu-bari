@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import AppBar from 'material-ui/AppBar';
 import IconButton from 'material-ui/IconButton';
 import ArrowBack from 'material-ui/svg-icons/navigation/arrow-back';
+import InfoOutline from 'material-ui/svg-icons/action/info-outline';
+
 import { Link } from 'react-router-dom';
 
 /**
@@ -15,16 +17,17 @@ class AppBarMenu extends Component {
     if(!this.props.backButton){
       appbar = <AppBar
       title="Menu mensa A.D.I.S.U. Bari"
-      showMenuIconButton={false}
       iconStyleLeft={{"display": "none"}}
       zDepth={0}
       style={{"backgroundColor": "#FF9800", "position": 'fixed'}}
+      iconElementRight={<Link to="/info"><IconButton><InfoOutline color="#FFF"/></IconButton></Link>}                
+      
     />
     }
     else {
       appbar = <AppBar
         showMenuIconButton={true}
-        iconElementLeft={<Link to={this.props.link}><IconButton ><ArrowBack color="#FFF"/></IconButton></Link>}                
+        iconElementLeft={<Link to={this.props.link}><IconButton><ArrowBack color="#FFF"/></IconButton></Link>}                
         zDepth={0}
         style={{"backgroundColor": "#FF9800", "position": 'fixed'}}
       />
