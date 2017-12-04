@@ -8,6 +8,7 @@ import { Link } from 'react-router-dom';
 
 import AppBarMenu from './ui/appbar';
 import LittleCard from './ui/littleCard';
+import TableMaterial from './ui/tableMaterial';
 
 import pranzo from '../../assets/img/pranzo.png';
 import cena from '../../assets/img/cena.jpg';
@@ -24,7 +25,6 @@ class Plate extends Component {
         this.id = this.props.match.params.id;
         this.data = this.props.match.params.data;
         this.type = this.props.match.params.type;
-        console.log(this.type);
     }
 
 
@@ -43,6 +43,16 @@ class Plate extends Component {
                             <p id="title">{this.props.meal.primi.primo1.nome}</p>
                         </Col>
                     </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.primi.primo1.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.primi.primo1.totale}</p>
+                        </Col>
+                    </Row>
                 </div>
             );
         }
@@ -52,6 +62,16 @@ class Plate extends Component {
                     <Row>
                         <Col xs={12} md={12} lg={12}>
                             <p id="title">{this.props.meal.primi.primo2.nome}</p>
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.primi.primo2.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.primi.primo2.totale}</p>
                         </Col>
                     </Row>
                 </div>
@@ -65,6 +85,16 @@ class Plate extends Component {
                             <p id="title">{this.props.meal.primi.primo3.nome}</p>
                         </Col>
                     </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.primi.primo3.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.primi.primo3.totale}</p>
+                        </Col>
+                    </Row>
                 </div>
             );
         }
@@ -74,6 +104,16 @@ class Plate extends Component {
                     <Row>
                         <Col xs={12} md={12} lg={12}>
                             <p id="title">{this.props.meal.secondi.secondo1.nome}</p>
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.secondi.secondo1.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.secondi.secondo1.totale}</p>
                         </Col>
                     </Row>
                 </div>
@@ -87,6 +127,16 @@ class Plate extends Component {
                             <p id="title">{this.props.meal.secondi.secondo2.nome}</p>
                         </Col>
                     </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.secondi.secondo2.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.secondi.secondo2.totale}</p>
+                        </Col>
+                    </Row>
                 </div>
             );
         }
@@ -96,6 +146,16 @@ class Plate extends Component {
                     <Row>
                         <Col xs={12} md={12} lg={12}>
                             <p id="title">{this.props.meal.secondi.secondo3.nome}</p>
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.secondi.secondo3.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.secondi.secondo3.totale}</p>
                         </Col>
                     </Row>
                 </div>
@@ -109,6 +169,16 @@ class Plate extends Component {
                             <p id="title">{this.props.meal.contorni.contorno1.nome}</p>
                         </Col>
                     </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.contorni.contorno1.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.contorni.contorno1.totale}</p>
+                        </Col>
+                    </Row>
                 </div>
             );
         }
@@ -120,6 +190,16 @@ class Plate extends Component {
                             <p id="title">{this.props.meal.contorni.contorno2.nome}</p>
                         </Col>
                     </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.contorni.contorno2.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.contorni.contorno2.totale}</p>
+                        </Col>
+                    </Row>
                 </div>
             );
         }
@@ -129,6 +209,16 @@ class Plate extends Component {
                     <Row>
                         <Col xs={12} md={12} lg={12}>
                             <p id="title">{this.props.meal.contorni.contorno3.nome}</p>
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <TableMaterial data={this.props.meal.contorni.contorno3.ingredienti} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col xs={12} md={12} lg={12}>
+                            <p id="total">{this.props.meal.contorni.contorno3.totale}</p>
                         </Col>
                     </Row>
                 </div>

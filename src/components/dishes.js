@@ -24,7 +24,7 @@ class Dishes extends Component {
     }
 
     isCenaPizza(){
-        console.log("PRIMI", this.props); 
+        //console.log("PRIMI", this.props); 
             if(this.props.meal.primi.primo3.nome=="")
                 return true;
             return false;

@@ -24,3 +24,12 @@ a {
 #title {
     font-size: 35px;
 }
+
+#total {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+thead > tr > th:nth-child(1) {
+    display: none;
+}
