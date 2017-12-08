@@ -3,23 +3,31 @@ import {Card, CardActions, CardHeader, CardMedia, CardTitle, CardText} from 'mat
 import FlatButton from 'material-ui/FlatButton';
 
 class CardWithAvatar extends Component {
+    constructor(props){
+        super(props);
+    }
 
     render() {
-        const style={
-            "overflow": "hidden",
-            "textOverflow": "ellipsis",
+
+        let card = (<Card>
+                        <CardMedia
+                            overlay={<CardTitle title={this.props.data} />}
+                        >
+                            <img src={this.props.immagine} />
+                        </CardMedia>
+                        <CardTitle title={this.props.titolo} />
+                    </Card>);
+
+        if(this.props.useOverlay===false){
+            card = (<Card>
+                        <CardMedia>
+                            <img src={this.props.immagine} />
+                        </CardMedia>
+                        <CardTitle title={this.props.titolo} />
+                    </Card>);
         }
         
-        return (
-            <Card>
-                <CardMedia
-                    overlay={<CardTitle title={this.props.data} />}
-                >
-                <img src={this.props.immagine} />
-                </CardMedia>
-                <CardTitle style={style} title={this.props.titolo} />
-            </Card>
-        );
+        return card;
     }
 }
 

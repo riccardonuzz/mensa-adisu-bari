@@ -26,6 +26,7 @@ class AppBarMenu extends Component {
     }
     else {
       appbar = <AppBar
+        title={this.props.title}
         showMenuIconButton={true}
         iconElementLeft={<Link to={this.props.link}><IconButton><ArrowBack color="#FFF"/></IconButton></Link>}                
         zDepth={0}

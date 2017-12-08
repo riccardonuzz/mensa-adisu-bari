@@ -20,6 +20,8 @@ class Dishes extends Component {
             const { id } = this.props.match.params;            
             this.props.fetchMeal(id);
         }
+
+        window.scrollTo(0,0);
         
     }
 
@@ -38,14 +40,14 @@ class Dishes extends Component {
 
             let primo3 = !this.isCenaPizza() ? (<Col xs={6} md={12} lg={4}>
                                             <Link to={`/dishes/${date}/${id}/3`}>
-                                                <CardWithAvatar immagine={primoPiatto} titolo={this.props.meal.primi.primo3.nome}/> 
+                                                <CardWithAvatar useOverlay={false} immagine={primoPiatto} titolo={this.props.meal.primi.primo3.nome}/> 
                                             </Link>
                                             <br />
                                         </Col>) : '';
                                         
             let secondo3 = !this.isCenaPizza() ? (<Col xs={6} md={12} lg={4}>
                                                 <Link to={`/dishes/${date}/${id}/6`}>
-                                                    <CardWithAvatar immagine={secondoPiatto} titolo={this.props.meal.secondi.secondo3.nome}/> 
+                                                    <CardWithAvatar useOverlay={false} immagine={secondoPiatto} titolo={this.props.meal.secondi.secondo3.nome}/> 
                                                 </Link>
                                                 <br />
                                             </Col>) : '';
@@ -62,13 +64,13 @@ class Dishes extends Component {
                         <Row>
                             <Col xs={6} md={12} lg={4}>
                                 <Link to={`/dishes/${date}/${id}/1`}>
-                                    <CardWithAvatar immagine={primoPiatto} titolo={this.props.meal.primi.primo1.nome}/>
+                                    <CardWithAvatar useOverlay={false} immagine={primoPiatto} titolo={this.props.meal.primi.primo1.nome}/>
                                 </Link>
                                 <br />
                             </Col>
                             <Col xs={6} md={12} lg={4}>
                                 <Link to={`/dishes/${date}/${id}/2`}>
-                                    <CardWithAvatar immagine={primoPiatto} titolo={this.props.meal.primi.primo2.nome}/>
+                                    <CardWithAvatar useOverlay={false} immagine={primoPiatto} titolo={this.props.meal.primi.primo2.nome}/>
                                 </Link>
                                 <br />
                             </Col>
@@ -85,13 +87,13 @@ class Dishes extends Component {
                         <Row>
                             <Col xs={6} md={12} lg={4}>
                                 <Link to={`/dishes/${date}/${id}/4`}>
-                                    <CardWithAvatar immagine={secondoPiatto} titolo={this.props.meal.secondi.secondo1.nome}/>
+                                    <CardWithAvatar useOverlay={false} immagine={secondoPiatto} titolo={this.props.meal.secondi.secondo1.nome}/>
                                 </Link>
                                 <br />
                             </Col>
                             <Col xs={6} md={12} lg={4}>
                                 <Link to={`/dishes/${date}/${id}/5`}>
-                                    <CardWithAvatar immagine={secondoPiatto} titolo={this.props.meal.secondi.secondo2.nome}/>
+                                    <CardWithAvatar useOverlay={false} immagine={secondoPiatto} titolo={this.props.meal.secondi.secondo2.nome}/>
                                 </Link>
                                 <br />
                             </Col>
@@ -108,19 +110,19 @@ class Dishes extends Component {
                         <Row>
                             <Col xs={6} md={12} lg={4}>
                                 <Link to={`/dishes/${date}/${id}/7`}>
-                                    <CardWithAvatar immagine={contornoPiatto} titolo={this.props.meal.contorni.contorno1.nome}/>
+                                    <CardWithAvatar useOverlay={false} immagine={contornoPiatto} titolo={this.props.meal.contorni.contorno1.nome}/>
                                 </Link>
                                 <br />
                             </Col>
                             <Col xs={6} md={12} lg={4}>
                                 <Link to={`/dishes/${date}/${id}/8`}>
-                                    <CardWithAvatar immagine={contornoPiatto} titolo={this.props.meal.contorni.contorno2.nome}/>
+                                    <CardWithAvatar useOverlay={false} immagine={contornoPiatto} titolo={this.props.meal.contorni.contorno2.nome}/>
                                 </Link>
                                 <br />
                             </Col>
                             <Col xs={6} md={12} lg={4}>
                                 <Link to={`/dishes/${date}/${id}/9`}>
-                                    <CardWithAvatar immagine={contornoPiatto} titolo={this.props.meal.contorni.contorno3.nome}/> 
+                                    <CardWithAvatar useOverlay={false} immagine={contornoPiatto} titolo={this.props.meal.contorni.contorno3.nome}/> 
                                 </Link>
                                 <br />
                             </Col>
@@ -133,9 +135,11 @@ class Dishes extends Component {
     }
 
     render() {
+        let day = this.props.meal ? `${this.props.meal.day.split(' ')[0]}, ${this.props.meal.date}` : '';
+
        return (
            <div>
-                <AppBarMenu link='/' backButton={true}/>
+                <AppBarMenu title={day} link='/' backButton={true}/>
                 <br />
                 <br />
                 {this.renderDishes()}

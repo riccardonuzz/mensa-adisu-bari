@@ -7,7 +7,6 @@ import { Row, Col } from 'react-flexbox-grid';
 import { Link } from 'react-router-dom';
 
 import AppBarMenu from './ui/appbar';
-import LittleCard from './ui/littleCard';
 import TableMaterial from './ui/tableMaterial';
 
 import pranzo from '../../assets/img/pranzo.png';
@@ -231,10 +230,11 @@ class Plate extends Component {
         //console.log("Checking render (PLATE): ", this.props.meal);
 
         let renderPlate = this.props.meal ? this.renderPlate() : '';
-        
+        let day = this.props.meal ? `${this.props.meal.day.split(' ')[0]}, ${this.props.meal.date}` : '';
+
         return (
             <div>
-                <AppBarMenu link={`/dishes/${this.props.match.params.data}/${this.props.match.params.id}`} backButton={true}/>
+                <AppBarMenu title={day} link={`/dishes/${this.props.match.params.data}/${this.props.match.params.id}`} backButton={true}/>
                 <br />
                 <br />
                 <Row>

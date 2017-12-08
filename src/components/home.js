@@ -11,6 +11,7 @@ import TabsSwipeable from './tabsSwipeable';
 class Home extends Component {
   componentDidMount(){
       this.props.fetchMeals();
+      window.scrollTo(0,0);
   }
 
   render() {
