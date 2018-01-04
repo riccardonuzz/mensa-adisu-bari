@@ -118,14 +118,14 @@ function mapStateToProps(state) {
 
     return {
 
-        todayMeals: _.filter(state.meals, function(element) { return element.date ==  moment().format('D/MM/YYYY') }),
-        currentDate: moment().format('D/MM/YYYY'),
+        todayMeals: _.filter(state.meals, function(element) { return element.date ==  moment().format('D/M/YYYY') }),
+        currentDate: moment().format('D/M/YYYY'),
 
-        tomorrowMeals: _.filter(state.meals, function(element) { return element.date == moment().add(1 ,'days').format('D/MM/YYYY') }),
-        tomorrowDate: moment().add(1, 'days').format('D/MM/YYYY'),
+        tomorrowMeals: _.filter(state.meals, function(element) { return element.date == moment().add(1 ,'days').format('D/M/YYYY') }),
+        tomorrowDate: moment().add(1, 'days').format('D/M/YYYY'),
 
-        yesterdayMeals: _.filter(state.meals, function(element) { return element.date == moment().subtract(1, 'days').format('D/MM/YYYY') }),
-        yesterdayDate: moment().subtract(1, 'days').format('D/MM/YYYY'),
+        yesterdayMeals: _.filter(state.meals, function(element) { return element.date == moment().subtract(1, 'days').format('D/M/YYYY') }),
+        yesterdayDate: moment().subtract(1, 'days').format('D/M/YYYY'),
 
         selectedMeals: _.filter(state.meals, function(element) { return element.date == state.date }),
         selectedDate: state.date

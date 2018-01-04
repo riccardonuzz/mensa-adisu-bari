@@ -65,7 +65,7 @@ class Info extends Component {
                     <Col xs={12} md={12} lg={12}>
                         <center>
                             <br />
-                            <a href="https://github.com/riccardonuzz"><img id="social-icon" src={github}></img></a><a href="https://github.com/riccardonuzz">&nbsp; riccardonuzz</a>
+                            <a href="https://github.com/riccardonuzz"><img id="social-icon" src={github}></img></a><a href="https://github.com/riccardonuzz">riccardonuzz</a>
                         </center>
                     </Col>
                 </Row>
