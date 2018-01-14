@@ -355,9 +355,9 @@
      "totale":"Totale gr. 225"
       },
    "secondo3": {
-     "nome":"Polio alla cacciatora",
+     "nome":"Pollo alla cacciatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 10",
        "Cipolle",
        "Pomodori pelati 18",
@@ -688,9 +688,9 @@
      "totale":"Totale gr. 135"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -769,7 +769,7 @@
    "primo2": {
      "nome":"Risotto alla pescatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -790,9 +790,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Coscia di polio arrosto",
+     "nome":"Coscia di pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -988,7 +988,7 @@
    "primo2": {
      "nome":"Cappelletti in brodo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -1004,9 +1004,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -1449,9 +1449,9 @@
      "totale":"Totale gr. 142"
       },
    "secondo2": {
-     "nome":"Scaloppina di polio al limone",
+     "nome":"Scaloppina di pollo al limone",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale",
@@ -1682,9 +1682,9 @@
      "totale":"Totale gr. 121"
       },
    "secondo2": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -1881,7 +1881,7 @@
    "primo2": {
      "nome":"Risotto alla marinara",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -1905,9 +1905,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio dorato",
+     "nome":"Petto di pollo dorato",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -3335,9 +3335,9 @@
      "totale":"Totale gr. 153"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -3415,7 +3415,7 @@
    "primo2": {
      "nome":"Pasta al Pomodoro",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -3434,9 +3434,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Polio arrosto",
+     "nome":"Pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -3677,7 +3677,7 @@
    "secondo3": {
      "nome":"Scaloppina di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale"
@@ -3745,7 +3745,7 @@
    "primo2": {
      "nome":"Risotto ai carciofi",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -3766,9 +3766,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Cosce di polio con olive e peperoni",
+     "nome":"Cosce di pollo con olive e peperoni",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -4247,7 +4247,7 @@
    "secondo2": {
      "nome":"Pizza prosciutto e funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine di olive 7",
@@ -4361,7 +4361,7 @@
      "totale":"Totale gr. 276"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
        "Pasta sfoglia 80",
        "Prosciutto Cotto 40",
@@ -9632,9 +9632,9 @@
      "totale":"Totale gr. 225"
       },
    "secondo3": {
-     "nome":"Polio alla cacciatora",
+     "nome":"Pollo alla cacciatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 10",
        "Cipolle",
        "Pomodori pelati 18",
@@ -9965,9 +9965,9 @@
      "totale":"Totale gr. 135"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -10046,7 +10046,7 @@
    "primo2": {
      "nome":"Risotto alla pescatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -10067,9 +10067,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Coscia di polio arrosto",
+     "nome":"Coscia di pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -10265,7 +10265,7 @@
    "primo2": {
      "nome":"Cappelletti in brodo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -10281,9 +10281,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -10726,9 +10726,9 @@
      "totale":"Totale gr. 142"
       },
    "secondo2": {
-     "nome":"Scaloppina di polio al limone",
+     "nome":"Scaloppina di pollo al limone",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale",
@@ -10959,9 +10959,9 @@
      "totale":"Totale gr. 121"
       },
    "secondo2": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -11158,7 +11158,7 @@
    "primo2": {
      "nome":"Risotto alla marinara",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -11182,9 +11182,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio dorato",
+     "nome":"Petto di pollo dorato",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -12612,9 +12612,9 @@
      "totale":"Totale gr. 153"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -12692,7 +12692,7 @@
    "primo2": {
      "nome":"Pasta al Pomodoro",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -12711,9 +12711,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Polio arrosto",
+     "nome":"Pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -12954,7 +12954,7 @@
    "secondo3": {
      "nome":"Scaloppina di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale"
@@ -13022,7 +13022,7 @@
    "primo2": {
      "nome":"Risotto ai carciofi",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -13043,9 +13043,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Cosce di polio con olive e peperoni",
+     "nome":"Cosce di pollo con olive e peperoni",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -13524,7 +13524,7 @@
    "secondo2": {
      "nome":"Pizza prosciutto e funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine di olive 7",
@@ -13638,7 +13638,7 @@
      "totale":"Totale gr. 276"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
        "Pasta sfoglia 80",
        "Prosciutto Cotto 40",
@@ -18909,9 +18909,9 @@
      "totale":"Totale gr. 225"
       },
    "secondo3": {
-     "nome":"Polio alla cacciatora",
+     "nome":"Pollo alla cacciatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 10",
        "Cipolle",
        "Pomodori pelati 18",
@@ -19242,9 +19242,9 @@
      "totale":"Totale gr. 135"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -19323,7 +19323,7 @@
    "primo2": {
      "nome":"Risotto alla pescatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -19344,9 +19344,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Coscia di polio arrosto",
+     "nome":"Coscia di pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -19542,7 +19542,7 @@
    "primo2": {
      "nome":"Cappelletti in brodo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -19558,9 +19558,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -20003,9 +20003,9 @@
      "totale":"Totale gr. 142"
       },
    "secondo2": {
-     "nome":"Scaloppina di polio al limone",
+     "nome":"Scaloppina di pollo al limone",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale",
@@ -20236,9 +20236,9 @@
      "totale":"Totale gr. 121"
       },
    "secondo2": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -20435,7 +20435,7 @@
    "primo2": {
      "nome":"Risotto alla marinara",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -20459,9 +20459,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio dorato",
+     "nome":"Petto di pollo dorato",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -21889,9 +21889,9 @@
      "totale":"Totale gr. 153"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -21969,7 +21969,7 @@
    "primo2": {
      "nome":"Pasta al Pomodoro",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -21988,9 +21988,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Polio arrosto",
+     "nome":"Pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -22231,7 +22231,7 @@
    "secondo3": {
      "nome":"Scaloppina di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale"
@@ -22299,7 +22299,7 @@
    "primo2": {
      "nome":"Risotto ai carciofi",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -22320,9 +22320,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Cosce di polio con olive e peperoni",
+     "nome":"Cosce di pollo con olive e peperoni",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -22801,7 +22801,7 @@
    "secondo2": {
      "nome":"Pizza prosciutto e funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine di olive 7",
@@ -22915,7 +22915,7 @@
      "totale":"Totale gr. 276"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
        "Pasta sfoglia 80",
        "Prosciutto Cotto 40",
@@ -28186,9 +28186,9 @@
      "totale":"Totale gr. 225"
       },
    "secondo3": {
-     "nome":"Polio alla cacciatora",
+     "nome":"Pollo alla cacciatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 10",
        "Cipolle",
        "Pomodori pelati 18",
@@ -28519,9 +28519,9 @@
      "totale":"Totale gr. 135"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -28600,7 +28600,7 @@
    "primo2": {
      "nome":"Risotto alla pescatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -28621,9 +28621,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Coscia di polio arrosto",
+     "nome":"Coscia di pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -28819,7 +28819,7 @@
    "primo2": {
      "nome":"Cappelletti in brodo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -28835,9 +28835,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -29280,9 +29280,9 @@
      "totale":"Totale gr. 142"
       },
    "secondo2": {
-     "nome":"Scaloppina di polio al limone",
+     "nome":"Scaloppina di pollo al limone",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale",
@@ -29513,9 +29513,9 @@
      "totale":"Totale gr. 121"
       },
    "secondo2": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -29712,7 +29712,7 @@
    "primo2": {
      "nome":"Risotto alla marinara",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -29736,9 +29736,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio dorato",
+     "nome":"Petto di pollo dorato",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -31166,9 +31166,9 @@
      "totale":"Totale gr. 153"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -31246,7 +31246,7 @@
    "primo2": {
      "nome":"Pasta al Pomodoro",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -31265,9 +31265,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Polio arrosto",
+     "nome":"Pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -31508,7 +31508,7 @@
    "secondo3": {
      "nome":"Scaloppina di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale"
@@ -31576,7 +31576,7 @@
    "primo2": {
      "nome":"Risotto ai carciofi",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -31597,9 +31597,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Cosce di polio con olive e peperoni",
+     "nome":"Cosce di pollo con olive e peperoni",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -32078,7 +32078,7 @@
    "secondo2": {
      "nome":"Pizza prosciutto e funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine di olive 7",
@@ -32192,7 +32192,7 @@
      "totale":"Totale gr. 276"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
        "Pasta sfoglia 80",
        "Prosciutto Cotto 40",
@@ -37463,9 +37463,9 @@
      "totale":"Totale gr. 225"
       },
    "secondo3": {
-     "nome":"Polio alla cacciatora",
+     "nome":"Pollo alla cacciatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 10",
        "Cipolle",
        "Pomodori pelati 18",
@@ -37796,9 +37796,9 @@
      "totale":"Totale gr. 135"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -37877,7 +37877,7 @@
    "primo2": {
      "nome":"Risotto alla pescatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -37898,9 +37898,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Coscia di polio arrosto",
+     "nome":"Coscia di pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -38096,7 +38096,7 @@
    "primo2": {
      "nome":"Cappelletti in brodo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -38112,9 +38112,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -38557,9 +38557,9 @@
      "totale":"Totale gr. 142"
       },
    "secondo2": {
-     "nome":"Scaloppina di polio al limone",
+     "nome":"Scaloppina di pollo al limone",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale",
@@ -38790,9 +38790,9 @@
      "totale":"Totale gr. 121"
       },
    "secondo2": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -38989,7 +38989,7 @@
    "primo2": {
      "nome":"Risotto alla marinara",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -39013,9 +39013,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio dorato",
+     "nome":"Petto di pollo dorato",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -40443,9 +40443,9 @@
      "totale":"Totale gr. 153"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -40523,7 +40523,7 @@
    "primo2": {
      "nome":"Pasta al Pomodoro",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -40542,9 +40542,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Polio arrosto",
+     "nome":"Pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -40785,7 +40785,7 @@
    "secondo3": {
      "nome":"Scaloppina di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale"
@@ -40853,7 +40853,7 @@
    "primo2": {
      "nome":"Risotto ai carciofi",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -40874,9 +40874,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Cosce di polio con olive e peperoni",
+     "nome":"Cosce di pollo con olive e peperoni",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -41355,7 +41355,7 @@
    "secondo2": {
      "nome":"Pizza prosciutto e funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine di olive 7",
@@ -41469,7 +41469,7 @@
      "totale":"Totale gr. 276"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
        "Pasta sfoglia 80",
        "Prosciutto Cotto 40",
@@ -46740,9 +46740,9 @@
      "totale":"Totale gr. 225"
       },
    "secondo3": {
-     "nome":"Polio alla cacciatora",
+     "nome":"Pollo alla cacciatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 10",
        "Cipolle",
        "Pomodori pelati 18",
@@ -47073,9 +47073,9 @@
      "totale":"Totale gr. 135"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -47154,7 +47154,7 @@
    "primo2": {
      "nome":"Risotto alla pescatora",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -47175,9 +47175,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Coscia di polio arrosto",
+     "nome":"Coscia di pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale 1",
        "Rosmarino 2"
@@ -47373,7 +47373,7 @@
    "primo2": {
      "nome":"Cappelletti in brodo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -47389,9 +47389,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -47834,9 +47834,9 @@
      "totale":"Totale gr. 142"
       },
    "secondo2": {
-     "nome":"Scaloppina di polio al limone",
+     "nome":"Scaloppina di pollo al limone",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale",
@@ -48067,9 +48067,9 @@
      "totale":"Totale gr. 121"
       },
    "secondo2": {
-     "nome":"Petto di polio ai funghi",
+     "nome":"Petto di pollo ai funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Funghi Champignon 29",
        "Olio extra vergine",
        "Sale 1",
@@ -48266,7 +48266,7 @@
    "primo2": {
      "nome":"Risotto alla marinara",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -48290,9 +48290,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Petto di polio dorato",
+     "nome":"Petto di pollo dorato",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 10",
        "Olio extra vergine di oliva 10",
@@ -49720,9 +49720,9 @@
      "totale":"Totale gr. 153"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine",
@@ -49800,7 +49800,7 @@
    "primo2": {
      "nome":"Pasta al Pomodoro",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -49819,9 +49819,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Polio arrosto",
+     "nome":"Pollo arrosto",
      "ingredienti": [
-       "Cosciotto di polio 190",
+       "Cosciotto di pollo 190",
        "Olio extra vergine di oliva 7",
        "Sale",
        "Rosmarino 2"
@@ -50062,7 +50062,7 @@
    "secondo3": {
      "nome":"Scaloppina di pollo",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Farina 10",
        "Olio extra vergine di oliva 5",
        "Sale"
@@ -50130,7 +50130,7 @@
    "primo2": {
      "nome":"Risotto ai carciofi",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -50151,9 +50151,9 @@
     },
  "secondi": {
    "secondo1": {
-     "nome":"Cosce di polio con olive e peperoni",
+     "nome":"Cosce di pollo con olive e peperoni",
      "ingredienti": [
-       "Cosciotto di polio 114",
+       "Cosciotto di pollo 114",
        "Cipolle 15",
        "Peperoni 120",
        "Olive nere 10",
@@ -50632,7 +50632,7 @@
    "secondo2": {
      "nome":"Pizza prosciutto e funghi",
      "ingredienti": [
-       "Petto di polio 80",
+       "Petto di pollo 80",
        "Uova 18",
        "Farina 5",
        "Olio extra vergine di olive 7",
@@ -50746,7 +50746,7 @@
      "totale":"Totale gr. 276"
       },
    "secondo2": {
-     "nome":"Cotoletta di polio",
+     "nome":"Cotoletta di pollo",
      "ingredienti": [
        "Pasta sfoglia 80",
        "Prosciutto Cotto 40",
